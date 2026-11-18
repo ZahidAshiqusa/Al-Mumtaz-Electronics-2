@@ -1,0 +1,1574 @@
+{
+  "store": {
+    "name": "Al-Mumtaz Electronics",
+    "city": "Hasilpur",
+    "address": "Main Railway Road, Hasilpur, District Bahawalpur",
+    "phone": "03299931199",
+    "codFlatRate": 250,
+    "expressCodRate": 550,
+    "freeDeliveryThreshold": 35000,
+    "cityRates": {
+      "Hasilpur": 0,
+      "Bahawalpur": 200,
+      "Vehari": 200,
+      "Multan": 300,
+      "Lahore": 350,
+      "Islamabad": 400,
+      "Rawalpindi": 400,
+      "Karachi": 450
+    }
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": "Smart TVs & Entertainment",
+      "slug": "smart-tvs",
+      "icon": "tv",
+      "image": "/images/product_qled_tv.jpg",
+      "parentCategory": "",
+      "description": "4K QLED, Google TV & Android LED Displays",
+      "sortOrder": 1,
+      "createdAt": "2026-11-18 12:06:27",
+      "productCount": 2
+    },
+    {
+      "id": 2,
+      "name": "Solar & Hybrid Inverters",
+      "slug": "solar-inverters",
+      "icon": "sun",
+      "image": "/images/product_solar_inverter.jpg",
+      "parentCategory": "",
+      "description": "MPPT Hybrid Inverters, Lithium Batteries & Solar Kits",
+      "sortOrder": 2,
+      "createdAt": "2026-11-18 12:06:27",
+      "productCount": 2
+    },
+    {
+      "id": 3,
+      "name": "Refrigerators & Cooling",
+      "slug": "cooling-appliances",
+      "icon": "snowflake",
+      "image": "/images/product_refrigerator_ac.jpg",
+      "parentCategory": "",
+      "description": "DC Inverter Refrigerators, Split ACs & Deep Freezers",
+      "sortOrder": 3,
+      "createdAt": "2026-11-18 12:06:27",
+      "productCount": 2
+    },
+    {
+      "id": 4,
+      "name": "Audio & Smart Wearables",
+      "slug": "audio-wearables",
+      "icon": "headphones",
+      "image": "/images/product_audio_accessories.jpg",
+      "parentCategory": "",
+      "description": "ANC Headphones, AMOLED Smartwatches & Soundbars",
+      "sortOrder": 4,
+      "createdAt": "2026-11-18 12:06:27",
+      "productCount": 2
+    },
+    {
+      "id": 5,
+      "name": "Kitchen Appliances",
+      "slug": "kitchen-appliances",
+      "icon": "flame",
+      "image": "/images/product_refrigerator_ac.jpg",
+      "parentCategory": "",
+      "description": "Microwave Ovens, Air Fryers & Automatic Dispensers",
+      "sortOrder": 5,
+      "createdAt": "2026-11-18 12:06:27",
+      "productCount": 1
+    },
+    {
+      "id": 6,
+      "name": "Fans & Power Backup",
+      "slug": "power-backup",
+      "icon": "zap",
+      "image": "/images/product_solar_inverter.jpg",
+      "parentCategory": "",
+      "description": "AC/DC Inverter Fans, UPS Systems & Voltage Stabilizers",
+      "sortOrder": 6,
+      "createdAt": "2026-11-18 12:06:27",
+      "productCount": 1
+    }
+  ],
+  "products": [
+    {
+      "id": 10,
+      "title": "SonicBeat 2.1CH 120W Bluetooth Soundbar + Subwoofer",
+      "slug": "sonicbeat-120w-bluetooth-soundbar",
+      "sku": "AME-AUD-SB120",
+      "description": "Deep wireless bass subwoofer with HDMI ARC, Optical, USB, and Bluetooth 5.3 streaming designed to upgrade any Smart TV.",
+      "imagesJson": "[\"/images/product_audio_accessories.jpg\"]",
+      "categorySlug": "audio-wearables",
+      "shopName": "Al-Mumtaz Tech Accessories",
+      "brand": "Audionic / JBL",
+      "originalPrice": 28000,
+      "discountPrice": 21500,
+      "discountPercentage": 23,
+      "stock": 16,
+      "tagsJson": "[\"New Arrival\"]",
+      "isFeatured": false,
+      "isFlashSale": false,
+      "variantsJson": "[\"120W Matte Black\"]",
+      "rating": 4.6,
+      "reviewCount": 22,
+      "soldCount": 38,
+      "warranty": "1 Year Official Warranty",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_audio_accessories.jpg"
+      ],
+      "tags": [
+        "New Arrival"
+      ],
+      "variants": [
+        "120W Matte Black"
+      ],
+      "variantOptions": [
+        {
+          "name": "120W Matte Black",
+          "originalPrice": 28000,
+          "discountPrice": 21500,
+          "discountPercentage": 23,
+          "stock": 16
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Samsung 43\" Crystal UHD 4K Smart LED TV (2026 Edition)",
+      "slug": "samsung-43-crystal-uhd-4k-tv",
+      "sku": "AME-TV-43CUHD",
+      "description": "PurColor 4K processor with Tizen OS, AirPlay 2, ultra-slim bezel, and crystal clear HDR contrast for bedrooms and lounges.",
+      "imagesJson": "[\"/images/product_qled_tv.jpg\"]",
+      "categorySlug": "smart-tvs",
+      "shopName": "Al-Mumtaz Official",
+      "brand": "Samsung",
+      "originalPrice": 129000,
+      "discountPrice": 112000,
+      "discountPercentage": 13,
+      "stock": 10,
+      "tagsJson": "[\"Featured\",\"Free Delivery\"]",
+      "isFeatured": true,
+      "isFlashSale": false,
+      "variantsJson": "[\"43-Inch Crystal UHD\",\"50-Inch Crystal UHD\"]",
+      "rating": 4.9,
+      "reviewCount": 36,
+      "soldCount": 52,
+      "warranty": "1 Year Official Warranty",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_qled_tv.jpg"
+      ],
+      "tags": [
+        "Featured",
+        "Free Delivery"
+      ],
+      "variants": [
+        "43-Inch Crystal UHD",
+        "50-Inch Crystal UHD"
+      ],
+      "variantOptions": [
+        {
+          "name": "43-Inch Crystal UHD",
+          "originalPrice": 129000,
+          "discountPrice": 112000,
+          "discountPercentage": 13,
+          "stock": 10
+        },
+        {
+          "name": "50-Inch Crystal UHD",
+          "originalPrice": 129000,
+          "discountPrice": 112000,
+          "discountPercentage": 13,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Royal 30W BLDC AC/DC Inverter Ceiling Fan (Copper)",
+      "slug": "royal-30w-bldc-ac-dc-ceiling-fan",
+      "sku": "AME-FAN-30BLDC",
+      "description": "99.9% pure copper winding brushless DC ceiling fan consuming just 30W on 12V solar battery or 220V WAPDA with RF remote control.",
+      "imagesJson": "[\"/images/product_solar_inverter.jpg\"]",
+      "categorySlug": "power-backup",
+      "shopName": "Al-Mumtaz Official",
+      "brand": "Royal / Pak Fans",
+      "originalPrice": 13500,
+      "discountPrice": 10900,
+      "discountPercentage": 19,
+      "stock": 42,
+      "tagsJson": "[\"Hot\",\"New Arrival\"]",
+      "isFeatured": false,
+      "isFlashSale": true,
+      "variantsJson": "[\"56-Inch Pearl White\",\"56-Inch Walnut Wood\"]",
+      "rating": 4.8,
+      "reviewCount": 94,
+      "soldCount": 215,
+      "warranty": "2 Years Motor & Card Warranty",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_solar_inverter.jpg"
+      ],
+      "tags": [
+        "Hot",
+        "New Arrival"
+      ],
+      "variants": [
+        "56-Inch Pearl White",
+        "56-Inch Walnut Wood"
+      ],
+      "variantOptions": [
+        {
+          "name": "56-Inch Pearl White",
+          "originalPrice": 13500,
+          "discountPrice": 10900,
+          "discountPercentage": 19,
+          "stock": 42
+        },
+        {
+          "name": "56-Inch Walnut Wood",
+          "originalPrice": 13500,
+          "discountPrice": 10900,
+          "discountPercentage": 19,
+          "stock": 42
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Dawlance 30L Convection Grill Microwave Oven (Digital)",
+      "slug": "dawlance-30l-convection-microwave",
+      "sku": "AME-KIT-MW30",
+      "description": "Stainless cavity 30-liter digital microwave with built-in grill, auto-defrost presets, child lock, and local recipe menus.",
+      "imagesJson": "[\"/images/product_refrigerator_ac.jpg\"]",
+      "categorySlug": "kitchen-appliances",
+      "shopName": "Al-Mumtaz Kitchens",
+      "brand": "Dawlance",
+      "originalPrice": 44000,
+      "discountPrice": 36500,
+      "discountPercentage": 17,
+      "stock": 19,
+      "tagsJson": "[\"New Arrival\",\"Free Delivery\"]",
+      "isFeatured": false,
+      "isFlashSale": true,
+      "variantsJson": "[\"30L Stainless Silver\",\"25L Matte Black\"]",
+      "rating": 4.7,
+      "reviewCount": 31,
+      "soldCount": 58,
+      "warranty": "2 Years Official Warranty",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_refrigerator_ac.jpg"
+      ],
+      "tags": [
+        "New Arrival",
+        "Free Delivery"
+      ],
+      "variants": [
+        "30L Stainless Silver",
+        "25L Matte Black"
+      ],
+      "variantOptions": [
+        {
+          "name": "30L Stainless Silver",
+          "originalPrice": 44000,
+          "discountPrice": 36500,
+          "discountPercentage": 17,
+          "stock": 19
+        },
+        {
+          "name": "25L Matte Black",
+          "originalPrice": 44000,
+          "discountPrice": 36500,
+          "discountPercentage": 17,
+          "stock": 19
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "EcoPower 48V 100Ah LiFePO4 Wall-Mount Lithium Battery",
+      "slug": "ecopower-48v-100ah-lifepo4-battery",
+      "sku": "AME-BAT-5120WH",
+      "description": "5.12kWh Grade-A LiFePO4 solar storage battery with 6000+ cycle life, smart LCD telemetry, and plug-and-play RS485/CAN inverter sync.",
+      "imagesJson": "[\"/images/product_solar_inverter.jpg\"]",
+      "categorySlug": "solar-inverters",
+      "shopName": "Al-Mumtaz Solar Hub",
+      "brand": "Narada / Pylontech",
+      "originalPrice": 295000,
+      "discountPrice": 258000,
+      "discountPercentage": 13,
+      "stock": 6,
+      "tagsJson": "[\"Featured\",\"Free Delivery\"]",
+      "isFeatured": true,
+      "isFlashSale": false,
+      "variantsJson": "[\"51.2V 100Ah (5.1kWh)\",\"25.6V 100Ah (2.5kWh)\"]",
+      "rating": 4.9,
+      "reviewCount": 27,
+      "soldCount": 41,
+      "warranty": "5 Years Official Cycle Warranty",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_solar_inverter.jpg"
+      ],
+      "tags": [
+        "Featured",
+        "Free Delivery"
+      ],
+      "variants": [
+        "51.2V 100Ah (5.1kWh)",
+        "25.6V 100Ah (2.5kWh)"
+      ],
+      "variantOptions": [
+        {
+          "name": "51.2V 100Ah (5.1kWh)",
+          "originalPrice": 295000,
+          "discountPrice": 258000,
+          "discountPercentage": 13,
+          "stock": 6
+        },
+        {
+          "name": "25.6V 100Ah (2.5kWh)",
+          "originalPrice": 295000,
+          "discountPrice": 258000,
+          "discountPercentage": 13,
+          "stock": 6
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "StudioPro ANC Wireless Headphones + AMOLED Watch Combo",
+      "slug": "studiopro-anc-headphones-watch-combo",
+      "sku": "AME-AUD-PRO26",
+      "description": "45dB Hybrid Active Noise Cancelling Bluetooth 5.3 headphones paired with an aluminum AMOLED Bluetooth calling smartwatch & TWS earbuds.",
+      "imagesJson": "[\"/images/product_audio_accessories.jpg\"]",
+      "categorySlug": "audio-wearables",
+      "shopName": "Al-Mumtaz Tech Accessories",
+      "brand": "SoundCore / Audionic",
+      "originalPrice": 24500,
+      "discountPrice": 15900,
+      "discountPercentage": 35,
+      "stock": 28,
+      "tagsJson": "[\"New Arrival\",\"Hot\"]",
+      "isFeatured": true,
+      "isFlashSale": true,
+      "variantsJson": "[\"Matte Black Combo\",\"Headphones Only\",\"Watch + TWS\"]",
+      "rating": 4.7,
+      "reviewCount": 82,
+      "soldCount": 163,
+      "warranty": "6 Months Replacement Warranty",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_audio_accessories.jpg"
+      ],
+      "tags": [
+        "New Arrival",
+        "Hot"
+      ],
+      "variants": [
+        "Matte Black Combo",
+        "Headphones Only",
+        "Watch + TWS"
+      ],
+      "variantOptions": [
+        {
+          "name": "Matte Black Combo",
+          "originalPrice": 24500,
+          "discountPrice": 15900,
+          "discountPercentage": 35,
+          "stock": 28
+        },
+        {
+          "name": "Headphones Only",
+          "originalPrice": 24500,
+          "discountPrice": 15900,
+          "discountPercentage": 35,
+          "stock": 28
+        },
+        {
+          "name": "Watch + TWS",
+          "originalPrice": 24500,
+          "discountPrice": 15900,
+          "discountPercentage": 35,
+          "stock": 28
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Gree 1.5 Ton T3 Full-DC Inverter Split Air Conditioner",
+      "slug": "gree-1-5-ton-t3-dc-inverter-ac",
+      "sku": "AME-AC-18T3DC",
+      "description": "Tropicalized T3 compressor engineered for South Punjab 52°C summers, 60% energy saving, low-voltage startup (150V), and 4-way swing.",
+      "imagesJson": "[\"/images/product_refrigerator_ac.jpg\"]",
+      "categorySlug": "cooling-appliances",
+      "shopName": "Al-Mumtaz Cooling Store",
+      "brand": "Gree / Kenwood",
+      "originalPrice": 178000,
+      "discountPrice": 149000,
+      "discountPercentage": 16,
+      "stock": 8,
+      "tagsJson": "[\"Hot\",\"Free Delivery\"]",
+      "isFeatured": true,
+      "isFlashSale": true,
+      "variantsJson": "[\"1.5 Ton Heat & Cool\",\"1.0 Ton Cool Only\"]",
+      "rating": 4.9,
+      "reviewCount": 53,
+      "soldCount": 95,
+      "warranty": "4 Years PCB + 10 Years Compressor",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_refrigerator_ac.jpg"
+      ],
+      "tags": [
+        "Hot",
+        "Free Delivery"
+      ],
+      "variants": [
+        "1.5 Ton Heat & Cool",
+        "1.0 Ton Cool Only"
+      ],
+      "variantOptions": [
+        {
+          "name": "1.5 Ton Heat & Cool",
+          "originalPrice": 178000,
+          "discountPrice": 149000,
+          "discountPercentage": 16,
+          "stock": 8
+        },
+        {
+          "name": "1.0 Ton Cool Only",
+          "originalPrice": 178000,
+          "discountPrice": 149000,
+          "discountPercentage": 16,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Haier Twin-Inverter 14 Cu.Ft Matte Titanium Refrigerator",
+      "slug": "haier-twin-inverter-14-titanium-fridge",
+      "sku": "AME-FRG-14TI",
+      "description": "1-Hour icing technology with FD Inverter compressor (runs smoothly on 1kW solar/UPS), anti-fungal gasket, and turbo cooling.",
+      "imagesJson": "[\"/images/product_refrigerator_ac.jpg\",\"/images/hero_electronics_showcase.jpg\"]",
+      "categorySlug": "cooling-appliances",
+      "shopName": "Al-Mumtaz Cooling Store",
+      "brand": "Haier / Dawlance",
+      "originalPrice": 118000,
+      "discountPrice": 98500,
+      "discountPercentage": 17,
+      "stock": 11,
+      "tagsJson": "[\"Featured\",\"Free Delivery\"]",
+      "isFeatured": true,
+      "isFlashSale": false,
+      "variantsJson": "[\"14 Cu.Ft Titanium\",\"16 Cu.Ft Glass Black\"]",
+      "rating": 4.8,
+      "reviewCount": 39,
+      "soldCount": 74,
+      "warranty": "10 Years Compressor + 1 Year Parts",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_refrigerator_ac.jpg",
+        "/images/hero_electronics_showcase.jpg"
+      ],
+      "tags": [
+        "Featured",
+        "Free Delivery"
+      ],
+      "variants": [
+        "14 Cu.Ft Titanium",
+        "16 Cu.Ft Glass Black"
+      ],
+      "variantOptions": [
+        {
+          "name": "14 Cu.Ft Titanium",
+          "originalPrice": 118000,
+          "discountPrice": 98500,
+          "discountPercentage": 17,
+          "stock": 11
+        },
+        {
+          "name": "16 Cu.Ft Glass Black",
+          "originalPrice": 118000,
+          "discountPrice": 98500,
+          "discountPercentage": 17,
+          "stock": 11
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Crown Helios 6kW Dual-MPPT Hybrid Solar Inverter + BMS",
+      "slug": "crown-helios-6kw-hybrid-solar-inverter",
+      "sku": "AME-SOL-6000H",
+      "description": "IP65 hybrid solar inverter with dual MPPT solar trackers, battery-less operation mode, smart Wi-Fi monitoring, and lithium BMS communication.",
+      "imagesJson": "[\"/images/product_solar_inverter.jpg\",\"/images/hero_electronics_showcase.jpg\"]",
+      "categorySlug": "solar-inverters",
+      "shopName": "Al-Mumtaz Solar Hub",
+      "brand": "Crown / Inverex",
+      "originalPrice": 245000,
+      "discountPrice": 198000,
+      "discountPercentage": 19,
+      "stock": 9,
+      "tagsJson": "[\"Featured\",\"Hot\",\"Free Delivery\"]",
+      "isFeatured": true,
+      "isFlashSale": true,
+      "variantsJson": "[\"6kW Hybrid\",\"4kW Hybrid\",\"8kW Dual Output\"]",
+      "rating": 4.9,
+      "reviewCount": 64,
+      "soldCount": 112,
+      "warranty": "5 Years Inverter Service Warranty",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_solar_inverter.jpg",
+        "/images/hero_electronics_showcase.jpg"
+      ],
+      "tags": [
+        "Featured",
+        "Hot",
+        "Free Delivery"
+      ],
+      "variants": [
+        "6kW Hybrid",
+        "4kW Hybrid",
+        "8kW Dual Output"
+      ],
+      "variantOptions": [
+        {
+          "name": "6kW Hybrid",
+          "originalPrice": 245000,
+          "discountPrice": 198000,
+          "discountPercentage": 19,
+          "stock": 9
+        },
+        {
+          "name": "4kW Hybrid",
+          "originalPrice": 245000,
+          "discountPrice": 198000,
+          "discountPercentage": 19,
+          "stock": 9
+        },
+        {
+          "name": "8kW Dual Output",
+          "originalPrice": 245000,
+          "discountPrice": 198000,
+          "discountPercentage": 19,
+          "stock": 9
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Al-Mumtaz VisionPro 55\" 4K QLED Google Smart TV",
+      "slug": "visionpro-55-4k-qled-smart-tv",
+      "sku": "AME-TV-55QLED",
+      "description": "Frameless 55-inch 4K UHD Quantum Dot display with Dolby Audio, HDR10+, dual-band Wi-Fi, built-in Chromecast, and voice remote.",
+      "imagesJson": "[\"/images/product_qled_tv.jpg\",\"/images/hero_electronics_showcase.jpg\"]",
+      "categorySlug": "smart-tvs",
+      "shopName": "Al-Mumtaz Official",
+      "brand": "TCL / Haier Series",
+      "originalPrice": 165000,
+      "discountPrice": 132500,
+      "discountPercentage": 20,
+      "stock": 14,
+      "tagsJson": "[\"Featured\",\"Hot\",\"Free Delivery\"]",
+      "isFeatured": true,
+      "isFlashSale": true,
+      "variantsJson": "[\"55-Inch QLED\",\"43-Inch 4K UHD\",\"65-Inch QLED\"]",
+      "rating": 4.9,
+      "reviewCount": 48,
+      "soldCount": 87,
+      "warranty": "2 Years Official Panel & Parts Warranty",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_qled_tv.jpg",
+        "/images/hero_electronics_showcase.jpg"
+      ],
+      "tags": [
+        "Featured",
+        "Hot",
+        "Free Delivery"
+      ],
+      "variants": [
+        "55-Inch QLED",
+        "43-Inch 4K UHD",
+        "65-Inch QLED"
+      ],
+      "variantOptions": [
+        {
+          "name": "55-Inch QLED",
+          "originalPrice": 165000,
+          "discountPrice": 132500,
+          "discountPercentage": 20,
+          "stock": 14
+        },
+        {
+          "name": "43-Inch 4K UHD",
+          "originalPrice": 165000,
+          "discountPrice": 132500,
+          "discountPercentage": 20,
+          "stock": 14
+        },
+        {
+          "name": "65-Inch QLED",
+          "originalPrice": 165000,
+          "discountPrice": 132500,
+          "discountPercentage": 20,
+          "stock": 14
+        }
+      ]
+    }
+  ],
+  "featured": [
+    {
+      "id": 9,
+      "title": "Samsung 43\" Crystal UHD 4K Smart LED TV (2026 Edition)",
+      "slug": "samsung-43-crystal-uhd-4k-tv",
+      "sku": "AME-TV-43CUHD",
+      "description": "PurColor 4K processor with Tizen OS, AirPlay 2, ultra-slim bezel, and crystal clear HDR contrast for bedrooms and lounges.",
+      "imagesJson": "[\"/images/product_qled_tv.jpg\"]",
+      "categorySlug": "smart-tvs",
+      "shopName": "Al-Mumtaz Official",
+      "brand": "Samsung",
+      "originalPrice": 129000,
+      "discountPrice": 112000,
+      "discountPercentage": 13,
+      "stock": 10,
+      "tagsJson": "[\"Featured\",\"Free Delivery\"]",
+      "isFeatured": true,
+      "isFlashSale": false,
+      "variantsJson": "[\"43-Inch Crystal UHD\",\"50-Inch Crystal UHD\"]",
+      "rating": 4.9,
+      "reviewCount": 36,
+      "soldCount": 52,
+      "warranty": "1 Year Official Warranty",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_qled_tv.jpg"
+      ],
+      "tags": [
+        "Featured",
+        "Free Delivery"
+      ],
+      "variants": [
+        "43-Inch Crystal UHD",
+        "50-Inch Crystal UHD"
+      ],
+      "variantOptions": [
+        {
+          "name": "43-Inch Crystal UHD",
+          "originalPrice": 129000,
+          "discountPrice": 112000,
+          "discountPercentage": 13,
+          "stock": 10
+        },
+        {
+          "name": "50-Inch Crystal UHD",
+          "originalPrice": 129000,
+          "discountPrice": 112000,
+          "discountPercentage": 13,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "EcoPower 48V 100Ah LiFePO4 Wall-Mount Lithium Battery",
+      "slug": "ecopower-48v-100ah-lifepo4-battery",
+      "sku": "AME-BAT-5120WH",
+      "description": "5.12kWh Grade-A LiFePO4 solar storage battery with 6000+ cycle life, smart LCD telemetry, and plug-and-play RS485/CAN inverter sync.",
+      "imagesJson": "[\"/images/product_solar_inverter.jpg\"]",
+      "categorySlug": "solar-inverters",
+      "shopName": "Al-Mumtaz Solar Hub",
+      "brand": "Narada / Pylontech",
+      "originalPrice": 295000,
+      "discountPrice": 258000,
+      "discountPercentage": 13,
+      "stock": 6,
+      "tagsJson": "[\"Featured\",\"Free Delivery\"]",
+      "isFeatured": true,
+      "isFlashSale": false,
+      "variantsJson": "[\"51.2V 100Ah (5.1kWh)\",\"25.6V 100Ah (2.5kWh)\"]",
+      "rating": 4.9,
+      "reviewCount": 27,
+      "soldCount": 41,
+      "warranty": "5 Years Official Cycle Warranty",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_solar_inverter.jpg"
+      ],
+      "tags": [
+        "Featured",
+        "Free Delivery"
+      ],
+      "variants": [
+        "51.2V 100Ah (5.1kWh)",
+        "25.6V 100Ah (2.5kWh)"
+      ],
+      "variantOptions": [
+        {
+          "name": "51.2V 100Ah (5.1kWh)",
+          "originalPrice": 295000,
+          "discountPrice": 258000,
+          "discountPercentage": 13,
+          "stock": 6
+        },
+        {
+          "name": "25.6V 100Ah (2.5kWh)",
+          "originalPrice": 295000,
+          "discountPrice": 258000,
+          "discountPercentage": 13,
+          "stock": 6
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "StudioPro ANC Wireless Headphones + AMOLED Watch Combo",
+      "slug": "studiopro-anc-headphones-watch-combo",
+      "sku": "AME-AUD-PRO26",
+      "description": "45dB Hybrid Active Noise Cancelling Bluetooth 5.3 headphones paired with an aluminum AMOLED Bluetooth calling smartwatch & TWS earbuds.",
+      "imagesJson": "[\"/images/product_audio_accessories.jpg\"]",
+      "categorySlug": "audio-wearables",
+      "shopName": "Al-Mumtaz Tech Accessories",
+      "brand": "SoundCore / Audionic",
+      "originalPrice": 24500,
+      "discountPrice": 15900,
+      "discountPercentage": 35,
+      "stock": 28,
+      "tagsJson": "[\"New Arrival\",\"Hot\"]",
+      "isFeatured": true,
+      "isFlashSale": true,
+      "variantsJson": "[\"Matte Black Combo\",\"Headphones Only\",\"Watch + TWS\"]",
+      "rating": 4.7,
+      "reviewCount": 82,
+      "soldCount": 163,
+      "warranty": "6 Months Replacement Warranty",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_audio_accessories.jpg"
+      ],
+      "tags": [
+        "New Arrival",
+        "Hot"
+      ],
+      "variants": [
+        "Matte Black Combo",
+        "Headphones Only",
+        "Watch + TWS"
+      ],
+      "variantOptions": [
+        {
+          "name": "Matte Black Combo",
+          "originalPrice": 24500,
+          "discountPrice": 15900,
+          "discountPercentage": 35,
+          "stock": 28
+        },
+        {
+          "name": "Headphones Only",
+          "originalPrice": 24500,
+          "discountPrice": 15900,
+          "discountPercentage": 35,
+          "stock": 28
+        },
+        {
+          "name": "Watch + TWS",
+          "originalPrice": 24500,
+          "discountPrice": 15900,
+          "discountPercentage": 35,
+          "stock": 28
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Gree 1.5 Ton T3 Full-DC Inverter Split Air Conditioner",
+      "slug": "gree-1-5-ton-t3-dc-inverter-ac",
+      "sku": "AME-AC-18T3DC",
+      "description": "Tropicalized T3 compressor engineered for South Punjab 52°C summers, 60% energy saving, low-voltage startup (150V), and 4-way swing.",
+      "imagesJson": "[\"/images/product_refrigerator_ac.jpg\"]",
+      "categorySlug": "cooling-appliances",
+      "shopName": "Al-Mumtaz Cooling Store",
+      "brand": "Gree / Kenwood",
+      "originalPrice": 178000,
+      "discountPrice": 149000,
+      "discountPercentage": 16,
+      "stock": 8,
+      "tagsJson": "[\"Hot\",\"Free Delivery\"]",
+      "isFeatured": true,
+      "isFlashSale": true,
+      "variantsJson": "[\"1.5 Ton Heat & Cool\",\"1.0 Ton Cool Only\"]",
+      "rating": 4.9,
+      "reviewCount": 53,
+      "soldCount": 95,
+      "warranty": "4 Years PCB + 10 Years Compressor",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_refrigerator_ac.jpg"
+      ],
+      "tags": [
+        "Hot",
+        "Free Delivery"
+      ],
+      "variants": [
+        "1.5 Ton Heat & Cool",
+        "1.0 Ton Cool Only"
+      ],
+      "variantOptions": [
+        {
+          "name": "1.5 Ton Heat & Cool",
+          "originalPrice": 178000,
+          "discountPrice": 149000,
+          "discountPercentage": 16,
+          "stock": 8
+        },
+        {
+          "name": "1.0 Ton Cool Only",
+          "originalPrice": 178000,
+          "discountPrice": 149000,
+          "discountPercentage": 16,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Haier Twin-Inverter 14 Cu.Ft Matte Titanium Refrigerator",
+      "slug": "haier-twin-inverter-14-titanium-fridge",
+      "sku": "AME-FRG-14TI",
+      "description": "1-Hour icing technology with FD Inverter compressor (runs smoothly on 1kW solar/UPS), anti-fungal gasket, and turbo cooling.",
+      "imagesJson": "[\"/images/product_refrigerator_ac.jpg\",\"/images/hero_electronics_showcase.jpg\"]",
+      "categorySlug": "cooling-appliances",
+      "shopName": "Al-Mumtaz Cooling Store",
+      "brand": "Haier / Dawlance",
+      "originalPrice": 118000,
+      "discountPrice": 98500,
+      "discountPercentage": 17,
+      "stock": 11,
+      "tagsJson": "[\"Featured\",\"Free Delivery\"]",
+      "isFeatured": true,
+      "isFlashSale": false,
+      "variantsJson": "[\"14 Cu.Ft Titanium\",\"16 Cu.Ft Glass Black\"]",
+      "rating": 4.8,
+      "reviewCount": 39,
+      "soldCount": 74,
+      "warranty": "10 Years Compressor + 1 Year Parts",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_refrigerator_ac.jpg",
+        "/images/hero_electronics_showcase.jpg"
+      ],
+      "tags": [
+        "Featured",
+        "Free Delivery"
+      ],
+      "variants": [
+        "14 Cu.Ft Titanium",
+        "16 Cu.Ft Glass Black"
+      ],
+      "variantOptions": [
+        {
+          "name": "14 Cu.Ft Titanium",
+          "originalPrice": 118000,
+          "discountPrice": 98500,
+          "discountPercentage": 17,
+          "stock": 11
+        },
+        {
+          "name": "16 Cu.Ft Glass Black",
+          "originalPrice": 118000,
+          "discountPrice": 98500,
+          "discountPercentage": 17,
+          "stock": 11
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Crown Helios 6kW Dual-MPPT Hybrid Solar Inverter + BMS",
+      "slug": "crown-helios-6kw-hybrid-solar-inverter",
+      "sku": "AME-SOL-6000H",
+      "description": "IP65 hybrid solar inverter with dual MPPT solar trackers, battery-less operation mode, smart Wi-Fi monitoring, and lithium BMS communication.",
+      "imagesJson": "[\"/images/product_solar_inverter.jpg\",\"/images/hero_electronics_showcase.jpg\"]",
+      "categorySlug": "solar-inverters",
+      "shopName": "Al-Mumtaz Solar Hub",
+      "brand": "Crown / Inverex",
+      "originalPrice": 245000,
+      "discountPrice": 198000,
+      "discountPercentage": 19,
+      "stock": 9,
+      "tagsJson": "[\"Featured\",\"Hot\",\"Free Delivery\"]",
+      "isFeatured": true,
+      "isFlashSale": true,
+      "variantsJson": "[\"6kW Hybrid\",\"4kW Hybrid\",\"8kW Dual Output\"]",
+      "rating": 4.9,
+      "reviewCount": 64,
+      "soldCount": 112,
+      "warranty": "5 Years Inverter Service Warranty",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_solar_inverter.jpg",
+        "/images/hero_electronics_showcase.jpg"
+      ],
+      "tags": [
+        "Featured",
+        "Hot",
+        "Free Delivery"
+      ],
+      "variants": [
+        "6kW Hybrid",
+        "4kW Hybrid",
+        "8kW Dual Output"
+      ],
+      "variantOptions": [
+        {
+          "name": "6kW Hybrid",
+          "originalPrice": 245000,
+          "discountPrice": 198000,
+          "discountPercentage": 19,
+          "stock": 9
+        },
+        {
+          "name": "4kW Hybrid",
+          "originalPrice": 245000,
+          "discountPrice": 198000,
+          "discountPercentage": 19,
+          "stock": 9
+        },
+        {
+          "name": "8kW Dual Output",
+          "originalPrice": 245000,
+          "discountPrice": 198000,
+          "discountPercentage": 19,
+          "stock": 9
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Al-Mumtaz VisionPro 55\" 4K QLED Google Smart TV",
+      "slug": "visionpro-55-4k-qled-smart-tv",
+      "sku": "AME-TV-55QLED",
+      "description": "Frameless 55-inch 4K UHD Quantum Dot display with Dolby Audio, HDR10+, dual-band Wi-Fi, built-in Chromecast, and voice remote.",
+      "imagesJson": "[\"/images/product_qled_tv.jpg\",\"/images/hero_electronics_showcase.jpg\"]",
+      "categorySlug": "smart-tvs",
+      "shopName": "Al-Mumtaz Official",
+      "brand": "TCL / Haier Series",
+      "originalPrice": 165000,
+      "discountPrice": 132500,
+      "discountPercentage": 20,
+      "stock": 14,
+      "tagsJson": "[\"Featured\",\"Hot\",\"Free Delivery\"]",
+      "isFeatured": true,
+      "isFlashSale": true,
+      "variantsJson": "[\"55-Inch QLED\",\"43-Inch 4K UHD\",\"65-Inch QLED\"]",
+      "rating": 4.9,
+      "reviewCount": 48,
+      "soldCount": 87,
+      "warranty": "2 Years Official Panel & Parts Warranty",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_qled_tv.jpg",
+        "/images/hero_electronics_showcase.jpg"
+      ],
+      "tags": [
+        "Featured",
+        "Hot",
+        "Free Delivery"
+      ],
+      "variants": [
+        "55-Inch QLED",
+        "43-Inch 4K UHD",
+        "65-Inch QLED"
+      ],
+      "variantOptions": [
+        {
+          "name": "55-Inch QLED",
+          "originalPrice": 165000,
+          "discountPrice": 132500,
+          "discountPercentage": 20,
+          "stock": 14
+        },
+        {
+          "name": "43-Inch 4K UHD",
+          "originalPrice": 165000,
+          "discountPrice": 132500,
+          "discountPercentage": 20,
+          "stock": 14
+        },
+        {
+          "name": "65-Inch QLED",
+          "originalPrice": 165000,
+          "discountPrice": 132500,
+          "discountPercentage": 20,
+          "stock": 14
+        }
+      ]
+    }
+  ],
+  "flashDeals": [
+    {
+      "id": 5,
+      "title": "StudioPro ANC Wireless Headphones + AMOLED Watch Combo",
+      "slug": "studiopro-anc-headphones-watch-combo",
+      "sku": "AME-AUD-PRO26",
+      "description": "45dB Hybrid Active Noise Cancelling Bluetooth 5.3 headphones paired with an aluminum AMOLED Bluetooth calling smartwatch & TWS earbuds.",
+      "imagesJson": "[\"/images/product_audio_accessories.jpg\"]",
+      "categorySlug": "audio-wearables",
+      "shopName": "Al-Mumtaz Tech Accessories",
+      "brand": "SoundCore / Audionic",
+      "originalPrice": 24500,
+      "discountPrice": 15900,
+      "discountPercentage": 35,
+      "stock": 28,
+      "tagsJson": "[\"New Arrival\",\"Hot\"]",
+      "isFeatured": true,
+      "isFlashSale": true,
+      "variantsJson": "[\"Matte Black Combo\",\"Headphones Only\",\"Watch + TWS\"]",
+      "rating": 4.7,
+      "reviewCount": 82,
+      "soldCount": 163,
+      "warranty": "6 Months Replacement Warranty",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_audio_accessories.jpg"
+      ],
+      "tags": [
+        "New Arrival",
+        "Hot"
+      ],
+      "variants": [
+        "Matte Black Combo",
+        "Headphones Only",
+        "Watch + TWS"
+      ],
+      "variantOptions": [
+        {
+          "name": "Matte Black Combo",
+          "originalPrice": 24500,
+          "discountPrice": 15900,
+          "discountPercentage": 35,
+          "stock": 28
+        },
+        {
+          "name": "Headphones Only",
+          "originalPrice": 24500,
+          "discountPrice": 15900,
+          "discountPercentage": 35,
+          "stock": 28
+        },
+        {
+          "name": "Watch + TWS",
+          "originalPrice": 24500,
+          "discountPrice": 15900,
+          "discountPercentage": 35,
+          "stock": 28
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "SonicBeat 2.1CH 120W Bluetooth Soundbar + Subwoofer",
+      "slug": "sonicbeat-120w-bluetooth-soundbar",
+      "sku": "AME-AUD-SB120",
+      "description": "Deep wireless bass subwoofer with HDMI ARC, Optical, USB, and Bluetooth 5.3 streaming designed to upgrade any Smart TV.",
+      "imagesJson": "[\"/images/product_audio_accessories.jpg\"]",
+      "categorySlug": "audio-wearables",
+      "shopName": "Al-Mumtaz Tech Accessories",
+      "brand": "Audionic / JBL",
+      "originalPrice": 28000,
+      "discountPrice": 21500,
+      "discountPercentage": 23,
+      "stock": 16,
+      "tagsJson": "[\"New Arrival\"]",
+      "isFeatured": false,
+      "isFlashSale": false,
+      "variantsJson": "[\"120W Matte Black\"]",
+      "rating": 4.6,
+      "reviewCount": 22,
+      "soldCount": 38,
+      "warranty": "1 Year Official Warranty",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_audio_accessories.jpg"
+      ],
+      "tags": [
+        "New Arrival"
+      ],
+      "variants": [
+        "120W Matte Black"
+      ],
+      "variantOptions": [
+        {
+          "name": "120W Matte Black",
+          "originalPrice": 28000,
+          "discountPrice": 21500,
+          "discountPercentage": 23,
+          "stock": 16
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Al-Mumtaz VisionPro 55\" 4K QLED Google Smart TV",
+      "slug": "visionpro-55-4k-qled-smart-tv",
+      "sku": "AME-TV-55QLED",
+      "description": "Frameless 55-inch 4K UHD Quantum Dot display with Dolby Audio, HDR10+, dual-band Wi-Fi, built-in Chromecast, and voice remote.",
+      "imagesJson": "[\"/images/product_qled_tv.jpg\",\"/images/hero_electronics_showcase.jpg\"]",
+      "categorySlug": "smart-tvs",
+      "shopName": "Al-Mumtaz Official",
+      "brand": "TCL / Haier Series",
+      "originalPrice": 165000,
+      "discountPrice": 132500,
+      "discountPercentage": 20,
+      "stock": 14,
+      "tagsJson": "[\"Featured\",\"Hot\",\"Free Delivery\"]",
+      "isFeatured": true,
+      "isFlashSale": true,
+      "variantsJson": "[\"55-Inch QLED\",\"43-Inch 4K UHD\",\"65-Inch QLED\"]",
+      "rating": 4.9,
+      "reviewCount": 48,
+      "soldCount": 87,
+      "warranty": "2 Years Official Panel & Parts Warranty",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_qled_tv.jpg",
+        "/images/hero_electronics_showcase.jpg"
+      ],
+      "tags": [
+        "Featured",
+        "Hot",
+        "Free Delivery"
+      ],
+      "variants": [
+        "55-Inch QLED",
+        "43-Inch 4K UHD",
+        "65-Inch QLED"
+      ],
+      "variantOptions": [
+        {
+          "name": "55-Inch QLED",
+          "originalPrice": 165000,
+          "discountPrice": 132500,
+          "discountPercentage": 20,
+          "stock": 14
+        },
+        {
+          "name": "43-Inch 4K UHD",
+          "originalPrice": 165000,
+          "discountPrice": 132500,
+          "discountPercentage": 20,
+          "stock": 14
+        },
+        {
+          "name": "65-Inch QLED",
+          "originalPrice": 165000,
+          "discountPrice": 132500,
+          "discountPercentage": 20,
+          "stock": 14
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Royal 30W BLDC AC/DC Inverter Ceiling Fan (Copper)",
+      "slug": "royal-30w-bldc-ac-dc-ceiling-fan",
+      "sku": "AME-FAN-30BLDC",
+      "description": "99.9% pure copper winding brushless DC ceiling fan consuming just 30W on 12V solar battery or 220V WAPDA with RF remote control.",
+      "imagesJson": "[\"/images/product_solar_inverter.jpg\"]",
+      "categorySlug": "power-backup",
+      "shopName": "Al-Mumtaz Official",
+      "brand": "Royal / Pak Fans",
+      "originalPrice": 13500,
+      "discountPrice": 10900,
+      "discountPercentage": 19,
+      "stock": 42,
+      "tagsJson": "[\"Hot\",\"New Arrival\"]",
+      "isFeatured": false,
+      "isFlashSale": true,
+      "variantsJson": "[\"56-Inch Pearl White\",\"56-Inch Walnut Wood\"]",
+      "rating": 4.8,
+      "reviewCount": 94,
+      "soldCount": 215,
+      "warranty": "2 Years Motor & Card Warranty",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_solar_inverter.jpg"
+      ],
+      "tags": [
+        "Hot",
+        "New Arrival"
+      ],
+      "variants": [
+        "56-Inch Pearl White",
+        "56-Inch Walnut Wood"
+      ],
+      "variantOptions": [
+        {
+          "name": "56-Inch Pearl White",
+          "originalPrice": 13500,
+          "discountPrice": 10900,
+          "discountPercentage": 19,
+          "stock": 42
+        },
+        {
+          "name": "56-Inch Walnut Wood",
+          "originalPrice": 13500,
+          "discountPrice": 10900,
+          "discountPercentage": 19,
+          "stock": 42
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Crown Helios 6kW Dual-MPPT Hybrid Solar Inverter + BMS",
+      "slug": "crown-helios-6kw-hybrid-solar-inverter",
+      "sku": "AME-SOL-6000H",
+      "description": "IP65 hybrid solar inverter with dual MPPT solar trackers, battery-less operation mode, smart Wi-Fi monitoring, and lithium BMS communication.",
+      "imagesJson": "[\"/images/product_solar_inverter.jpg\",\"/images/hero_electronics_showcase.jpg\"]",
+      "categorySlug": "solar-inverters",
+      "shopName": "Al-Mumtaz Solar Hub",
+      "brand": "Crown / Inverex",
+      "originalPrice": 245000,
+      "discountPrice": 198000,
+      "discountPercentage": 19,
+      "stock": 9,
+      "tagsJson": "[\"Featured\",\"Hot\",\"Free Delivery\"]",
+      "isFeatured": true,
+      "isFlashSale": true,
+      "variantsJson": "[\"6kW Hybrid\",\"4kW Hybrid\",\"8kW Dual Output\"]",
+      "rating": 4.9,
+      "reviewCount": 64,
+      "soldCount": 112,
+      "warranty": "5 Years Inverter Service Warranty",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_solar_inverter.jpg",
+        "/images/hero_electronics_showcase.jpg"
+      ],
+      "tags": [
+        "Featured",
+        "Hot",
+        "Free Delivery"
+      ],
+      "variants": [
+        "6kW Hybrid",
+        "4kW Hybrid",
+        "8kW Dual Output"
+      ],
+      "variantOptions": [
+        {
+          "name": "6kW Hybrid",
+          "originalPrice": 245000,
+          "discountPrice": 198000,
+          "discountPercentage": 19,
+          "stock": 9
+        },
+        {
+          "name": "4kW Hybrid",
+          "originalPrice": 245000,
+          "discountPrice": 198000,
+          "discountPercentage": 19,
+          "stock": 9
+        },
+        {
+          "name": "8kW Dual Output",
+          "originalPrice": 245000,
+          "discountPrice": 198000,
+          "discountPercentage": 19,
+          "stock": 9
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Dawlance 30L Convection Grill Microwave Oven (Digital)",
+      "slug": "dawlance-30l-convection-microwave",
+      "sku": "AME-KIT-MW30",
+      "description": "Stainless cavity 30-liter digital microwave with built-in grill, auto-defrost presets, child lock, and local recipe menus.",
+      "imagesJson": "[\"/images/product_refrigerator_ac.jpg\"]",
+      "categorySlug": "kitchen-appliances",
+      "shopName": "Al-Mumtaz Kitchens",
+      "brand": "Dawlance",
+      "originalPrice": 44000,
+      "discountPrice": 36500,
+      "discountPercentage": 17,
+      "stock": 19,
+      "tagsJson": "[\"New Arrival\",\"Free Delivery\"]",
+      "isFeatured": false,
+      "isFlashSale": true,
+      "variantsJson": "[\"30L Stainless Silver\",\"25L Matte Black\"]",
+      "rating": 4.7,
+      "reviewCount": 31,
+      "soldCount": 58,
+      "warranty": "2 Years Official Warranty",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_refrigerator_ac.jpg"
+      ],
+      "tags": [
+        "New Arrival",
+        "Free Delivery"
+      ],
+      "variants": [
+        "30L Stainless Silver",
+        "25L Matte Black"
+      ],
+      "variantOptions": [
+        {
+          "name": "30L Stainless Silver",
+          "originalPrice": 44000,
+          "discountPrice": 36500,
+          "discountPercentage": 17,
+          "stock": 19
+        },
+        {
+          "name": "25L Matte Black",
+          "originalPrice": 44000,
+          "discountPrice": 36500,
+          "discountPercentage": 17,
+          "stock": 19
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Haier Twin-Inverter 14 Cu.Ft Matte Titanium Refrigerator",
+      "slug": "haier-twin-inverter-14-titanium-fridge",
+      "sku": "AME-FRG-14TI",
+      "description": "1-Hour icing technology with FD Inverter compressor (runs smoothly on 1kW solar/UPS), anti-fungal gasket, and turbo cooling.",
+      "imagesJson": "[\"/images/product_refrigerator_ac.jpg\",\"/images/hero_electronics_showcase.jpg\"]",
+      "categorySlug": "cooling-appliances",
+      "shopName": "Al-Mumtaz Cooling Store",
+      "brand": "Haier / Dawlance",
+      "originalPrice": 118000,
+      "discountPrice": 98500,
+      "discountPercentage": 17,
+      "stock": 11,
+      "tagsJson": "[\"Featured\",\"Free Delivery\"]",
+      "isFeatured": true,
+      "isFlashSale": false,
+      "variantsJson": "[\"14 Cu.Ft Titanium\",\"16 Cu.Ft Glass Black\"]",
+      "rating": 4.8,
+      "reviewCount": 39,
+      "soldCount": 74,
+      "warranty": "10 Years Compressor + 1 Year Parts",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_refrigerator_ac.jpg",
+        "/images/hero_electronics_showcase.jpg"
+      ],
+      "tags": [
+        "Featured",
+        "Free Delivery"
+      ],
+      "variants": [
+        "14 Cu.Ft Titanium",
+        "16 Cu.Ft Glass Black"
+      ],
+      "variantOptions": [
+        {
+          "name": "14 Cu.Ft Titanium",
+          "originalPrice": 118000,
+          "discountPrice": 98500,
+          "discountPercentage": 17,
+          "stock": 11
+        },
+        {
+          "name": "16 Cu.Ft Glass Black",
+          "originalPrice": 118000,
+          "discountPrice": 98500,
+          "discountPercentage": 17,
+          "stock": 11
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Gree 1.5 Ton T3 Full-DC Inverter Split Air Conditioner",
+      "slug": "gree-1-5-ton-t3-dc-inverter-ac",
+      "sku": "AME-AC-18T3DC",
+      "description": "Tropicalized T3 compressor engineered for South Punjab 52°C summers, 60% energy saving, low-voltage startup (150V), and 4-way swing.",
+      "imagesJson": "[\"/images/product_refrigerator_ac.jpg\"]",
+      "categorySlug": "cooling-appliances",
+      "shopName": "Al-Mumtaz Cooling Store",
+      "brand": "Gree / Kenwood",
+      "originalPrice": 178000,
+      "discountPrice": 149000,
+      "discountPercentage": 16,
+      "stock": 8,
+      "tagsJson": "[\"Hot\",\"Free Delivery\"]",
+      "isFeatured": true,
+      "isFlashSale": true,
+      "variantsJson": "[\"1.5 Ton Heat & Cool\",\"1.0 Ton Cool Only\"]",
+      "rating": 4.9,
+      "reviewCount": 53,
+      "soldCount": 95,
+      "warranty": "4 Years PCB + 10 Years Compressor",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_refrigerator_ac.jpg"
+      ],
+      "tags": [
+        "Hot",
+        "Free Delivery"
+      ],
+      "variants": [
+        "1.5 Ton Heat & Cool",
+        "1.0 Ton Cool Only"
+      ],
+      "variantOptions": [
+        {
+          "name": "1.5 Ton Heat & Cool",
+          "originalPrice": 178000,
+          "discountPrice": 149000,
+          "discountPercentage": 16,
+          "stock": 8
+        },
+        {
+          "name": "1.0 Ton Cool Only",
+          "originalPrice": 178000,
+          "discountPrice": 149000,
+          "discountPercentage": 16,
+          "stock": 8
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Samsung 43\" Crystal UHD 4K Smart LED TV (2026 Edition)",
+      "slug": "samsung-43-crystal-uhd-4k-tv",
+      "sku": "AME-TV-43CUHD",
+      "description": "PurColor 4K processor with Tizen OS, AirPlay 2, ultra-slim bezel, and crystal clear HDR contrast for bedrooms and lounges.",
+      "imagesJson": "[\"/images/product_qled_tv.jpg\"]",
+      "categorySlug": "smart-tvs",
+      "shopName": "Al-Mumtaz Official",
+      "brand": "Samsung",
+      "originalPrice": 129000,
+      "discountPrice": 112000,
+      "discountPercentage": 13,
+      "stock": 10,
+      "tagsJson": "[\"Featured\",\"Free Delivery\"]",
+      "isFeatured": true,
+      "isFlashSale": false,
+      "variantsJson": "[\"43-Inch Crystal UHD\",\"50-Inch Crystal UHD\"]",
+      "rating": 4.9,
+      "reviewCount": 36,
+      "soldCount": 52,
+      "warranty": "1 Year Official Warranty",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_qled_tv.jpg"
+      ],
+      "tags": [
+        "Featured",
+        "Free Delivery"
+      ],
+      "variants": [
+        "43-Inch Crystal UHD",
+        "50-Inch Crystal UHD"
+      ],
+      "variantOptions": [
+        {
+          "name": "43-Inch Crystal UHD",
+          "originalPrice": 129000,
+          "discountPrice": 112000,
+          "discountPercentage": 13,
+          "stock": 10
+        },
+        {
+          "name": "50-Inch Crystal UHD",
+          "originalPrice": 129000,
+          "discountPrice": 112000,
+          "discountPercentage": 13,
+          "stock": 10
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "EcoPower 48V 100Ah LiFePO4 Wall-Mount Lithium Battery",
+      "slug": "ecopower-48v-100ah-lifepo4-battery",
+      "sku": "AME-BAT-5120WH",
+      "description": "5.12kWh Grade-A LiFePO4 solar storage battery with 6000+ cycle life, smart LCD telemetry, and plug-and-play RS485/CAN inverter sync.",
+      "imagesJson": "[\"/images/product_solar_inverter.jpg\"]",
+      "categorySlug": "solar-inverters",
+      "shopName": "Al-Mumtaz Solar Hub",
+      "brand": "Narada / Pylontech",
+      "originalPrice": 295000,
+      "discountPrice": 258000,
+      "discountPercentage": 13,
+      "stock": 6,
+      "tagsJson": "[\"Featured\",\"Free Delivery\"]",
+      "isFeatured": true,
+      "isFlashSale": false,
+      "variantsJson": "[\"51.2V 100Ah (5.1kWh)\",\"25.6V 100Ah (2.5kWh)\"]",
+      "rating": 4.9,
+      "reviewCount": 27,
+      "soldCount": 41,
+      "warranty": "5 Years Official Cycle Warranty",
+      "createdAt": "2026-11-18 12:06:27",
+      "variantPricingJson": "[]",
+      "images": [
+        "/images/product_solar_inverter.jpg"
+      ],
+      "tags": [
+        "Featured",
+        "Free Delivery"
+      ],
+      "variants": [
+        "51.2V 100Ah (5.1kWh)",
+        "25.6V 100Ah (2.5kWh)"
+      ],
+      "variantOptions": [
+        {
+          "name": "51.2V 100Ah (5.1kWh)",
+          "originalPrice": 295000,
+          "discountPrice": 258000,
+          "discountPercentage": 13,
+          "stock": 6
+        },
+        {
+          "name": "25.6V 100Ah (2.5kWh)",
+          "originalPrice": 295000,
+          "discountPrice": 258000,
+          "discountPercentage": 13,
+          "stock": 6
+        }
+      ]
+    }
+  ]
+}

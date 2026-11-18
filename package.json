@@ -1,0 +1,47 @@
+{
+  "name": "al-mumtaz-electronics-store",
+  "version": "2.0.0",
+  "description": "Al-Mumtaz Electronics Hasilpur - E-Commerce Store & Automated WhatsApp COD Order Confirmation",
+  "main": "server.js",
+  "scripts": {
+    "build": "node -c server.js && node -c lib/database.js && node lib/exportStaticBootstrap.js && node -e \"console.log('Build complete')\"",
+    "start": "node server.js",
+    "dev": "node server.js",
+    "lint": "node -c server.js && node -c lib/database.js && node -c lib/mediaStore.js && node -c lib/storeLogic.js && node -c lib/whatsappService.js && node -c lib/sessionManager.js && node -c lib/aiAssistant.js && node -c lib/supabaseUsers.js && node -c lib/authState.js && node -c public/js/api.js && node -c public/js/storefront.js && node -c public/js/admin.js && node -c Railway/server.js && node -c Railway/lib/database.js && node -c Railway/lib/storeLogic.js && node -c Railway/lib/whatsappService.js && node -c Railway/lib/sessionManager.js && node -c Railway/lib/aiAssistant.js",
+    "test": "node --test lib/storeLogic.test.js"
+  },
+  "keywords": [
+    "ecommerce",
+    "whatsapp-cod",
+    "railway",
+    "vercel",
+    "baileys"
+  ],
+  "author": "Al-Mumtaz Electronics",
+  "license": "ISC",
+  "engines": {
+    "node": "22.x"
+  },
+  "dependencies": {
+    "@google/genai": "^3.6.0",
+    "@hapi/boom": "^10.0.1",
+    "@supabase/supabase-js": "^2.119.0",
+    "@whiskeysockets/baileys": "7.0.0-rc13",
+    "axios": "^1.8.4",
+    "cookie": "^0.5.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "form-data": "^4.0.1",
+    "kango-wa": "^1.0.4",
+    "multer": "^2.5.0",
+    "node-cache": "^5.1.2",
+    "pg": "^8.22.0",
+    "pino": "^8.21.0",
+    "qrcode": "^1.5.4",
+    "qrcode-terminal": "^0.12.0",
+    "ws": "^8.17.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0"
+  }
+}
